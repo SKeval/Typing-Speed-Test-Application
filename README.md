@@ -2,7 +2,7 @@
 The Typing Speed Test Application is a Python-based project designed to measure a user's typing speed in terms of Words Per Minute (WPM). The application features a simple and intuitive graphical user interface (GUI) built using the Tkinter library. It challenges the user to type a randomly selected text, calculates the typing speed dynamically.
 
 ## Key Features:
-Random Text Selection:
+### Random Text Selection:
 
 The application selects a random sentence from a pre-loaded file (text.txt) for the user to type.
 Real-Time Typing Speed (WPM) Calculation:
