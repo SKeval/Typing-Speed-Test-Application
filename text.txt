@@ -1,0 +1,3 @@
+A text line shuffler can be useful
+you need to write a browser test
+the lines were shuffled
